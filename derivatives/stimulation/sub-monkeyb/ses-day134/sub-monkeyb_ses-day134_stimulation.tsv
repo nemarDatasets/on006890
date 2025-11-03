@@ -1,0 +1,9 @@
+trial	frequency_Hz	anode	cathode	amplitude_uA	pulse_width_us	observed_response
+1	50	CH29	CH30	1440	300	No observable motor or behavioral response.
+2	50	CH31	CH32	1800	300	Startle-like behavioral response observed.
+3	50	CH31	CH32	1440	300	Possible nasal or perinasal response.
+4	50	CH13	CH14	1440	300	Right thumb movement.
+5	50	CH15	CH16	1440	300	No observable motor or behavioral response.
+6	50	CH15	CH16	1800	300	Right perioral (orofacial) movement.
+7	50	CH14	CH15	1440	300	No observable motor or behavioral response.
+8	50	CH06	CH07	1440	300	No observable motor or behavioral response.

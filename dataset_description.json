@@ -1,0 +1,35 @@
+{
+    "Name": "Longitudinal Multitask Wireless ECoG Data from Two Fully Implanted Macaca fuscata",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "GeneratedBy": [
+        {
+            "Name": "custom-bids-converter",
+            "Version": "1.0",
+            "Description": "Python script that converts raw .bin recordings to BIDS iEEG structure"
+        }
+    ],
+    "Authors": [
+        "Huixiang Yang",
+        "Ryohei Fukuma",
+        "Kotaro Okuda",
+        "Takufumi Yanagisawa"
+    ],
+    "HowToAcknowledge": "Please cite our Scientific Data article once available. Provisional citation: []",
+    "Funding": [
+        "Grant JPMJER1801 from JST, JPMJMS2012 (TY) from Moonshot R&D, JPMJCR18A5 (TY) from CREST, JPMJCR24U2 (TY) from AIP"
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": "",
+    "License": " CC BY 4.0",
+    "SourceDatasets": [
+        {
+            "Name": "In-house raw recordings",
+            "URL": "n/a",
+            "Version": "2024-12-27",
+            "Notes": "This dataset was derived directly from in-house raw .bin recordings acquired with a custom acquisition system (not publicly released)."
+        }
+    ]
+}

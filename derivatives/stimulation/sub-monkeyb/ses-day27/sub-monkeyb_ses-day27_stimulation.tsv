@@ -1,0 +1,63 @@
+trial	frequency_Hz	anode	cathode	amplitude_uA	pulse_width_us	observed_response
+1	50	CH17	CH21	600	300	Possible right cheek response.
+2	50	CH17	CH21	600	300	No observable motor or behavioral response.
+3	50	CH17	CH21	600	300	No observable motor or behavioral response.
+4	50	CH21	CH28	600	300	No observable motor or behavioral response.
+5	50	CH17	CH18	600	300	No clear movement; possible abnormal sensation.
+6	50	CH21	CH22	600	300	No observable motor or behavioral response.
+7	50	CH28	CH29	600	300	No observable motor or behavioral response.
+8	50	CH18	CH22	600	300	No observable motor or behavioral response.
+9	50	CH22	CH29	600	300	No observable motor or behavioral response.
+10	50	CH18	CH19	600	300	No observable motor or behavioral response.
+11	50	CH18	CH19	600	300	No observable motor or behavioral response.
+12	50	CH22	CH23	600	300	No observable motor or behavioral response.
+13	50	CH29	CH30	600	300	No observable motor or behavioral response.
+14	50	CH29	CH30	600	300	No observable motor or behavioral response.
+15	50	CH19	CH23	600	300	No observable motor or behavioral response.
+16	50	CH23	CH30	600	300	No observable motor or behavioral response.
+17	50	CH19	CH24	600	300	No observable motor or behavioral response.
+18	50	CH23	CH24	600	300	No observable motor or behavioral response.
+19	50	CH24	CH31	600	300	Unclear observation; possible facial response.
+20	50	CH21	CH28	900	300	Observable behavioral response (non-specific).
+21	50	CH21	CH28	900	300	No observable motor or behavioral response.
+22	50	CH28	CH29	900	300	No observable motor or behavioral response.
+23	50	CH22	CH29	900	300	No observable motor or behavioral response.
+24	50	CH29	CH30	900	300	No observable motor or behavioral response.
+25	50	CH23	CH30	900	300	No observable motor or behavioral response.
+26	50	CH17	CH21	900	300	No observable motor or behavioral response.
+27	50	CH17	CH18	900	300	No observable motor or behavioral response.
+28	50	CH21	CH28	1200	300	Possible body movement (uncertain).
+29	50	CH21	CH28	1200	300	Possible body movement (uncertain).
+30	50	CH21	CH28	1200	300	No observable motor or behavioral response.
+31	50	CH17	CH21	1200	300	No observable motor or behavioral response.
+32	50	CH21	CH28	1200	300	No observable motor or behavioral response.
+33	50	CH22	CH29	1200	300	No observable motor or behavioral response.
+34	50	CH29	CH30	1200	300	Left hand tremor observed.
+35	50	CH29	CH30	1116	300	Movement of the entire left hand.
+36	50	CH23	CH30	1116	300	Possible abnormal sensation without clear movement.
+37	50	CH30	CH31	1116	300	Left arm and elbow movement.
+38	50	CH28	CH29	1116	300	Protective gesture of the left hand; possible abnormal sensation.
+39	50	CH28	CH29	1116	300	Movement of the left thumb and fingertips.
+40	50	CH31	CH32	1116	300	Left perioral (orofacial) movement.
+41	50	CH21	CH28	1116	300	No observable motor or behavioral response.
+42	50	CH22	CH29	1116	300	No observable motor or behavioral response.
+43	50	CH23	CH30	1116	300	No observable motor or behavioral response.
+44	50	CH24	CH31	1116	300	No observable motor or behavioral response.
+45	50	CH26	CH32	1116	300	Possible abnormal sensation; no clear movement.
+46	50	CH22	CH28	1116	300	Movement on the dorsum of the left hand.
+47	50	CH23	CH29	1116	300	No observable motor or behavioral response.
+48	50	CH24	CH30	1116	300	No observable motor or behavioral response.
+49	50	CH06	CH13	1116	300	No observable motor or behavioral response.
+50	50	CH05	CH12	1116	300	Possible abnormal sensation.
+51	50	CH12	CH13	1116	300	No observable motor or behavioral response.
+52	50	CH13	CH14	1116	300	Right thumb movement.
+53	50	CH14	CH15	1116	300	Unclear observation.
+54	50	CH07	CH14	1116	300	No observable motor or behavioral response.
+55	50	CH07	CH13	1116	300	No observable motor or behavioral response.
+56	50	CH08	CH14	1116	300	No observable motor or behavioral response.
+57	50	CH13	CH14	1116	300	Left thumb movement.
+58	50	CH06	CH13	1116	300	No observable motor or behavioral response.
+59	50	CH08	CH15	1116	300	Possible abnormal sensation with orofacial involvement.
+60	50	CH15	CH16	1116	300	Right perioral and right cheek movement (near nasal region).
+61	50	CH24	CH30	1116	300	No observable motor or behavioral response.
+62	50	CH30	CH31	1116	300	Left elbow and arm movement.

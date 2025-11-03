@@ -1,0 +1,20 @@
+trial	frequency_Hz	anode	cathode	amplitude_uA	pulse_width_us	observed_response
+1	50	CH29	CH30	1800	300	No observable motor or behavioral response.
+2	50	CH28	CH29	1800	300	No observable motor or behavioral response.
+3	50	CH30	CH31	1800	300	No observable motor or behavioral response.
+4	50	CH31	CH32	1800	300	Perioral region involvement; unclear whether sensory or motor in nature.
+5	50	CH21	CH22	1800	300	Thumb movement observed.
+6	50	CH21	CH28	1800	300	No observable motor or behavioral response.
+7	50	CH22	CH29	1800	300	No observable motor or behavioral response.
+8	50	CH23	CH29	1800	300	Facial response observed; unclear whether sensory or motor in nature.
+9	50	CH22	CH23	1800	300	No observable motor or behavioral response.
+10	50	CH12	CH13	1800	300	No observable motor or behavioral response.
+11	50	CH13	CH14	1800	300	No observable motor or behavioral response.
+12	50	CH14	CH15	1800	300	No observable motor or behavioral response.
+13	50	CH12	CH06	1800	300	No observable motor or behavioral response.
+14	50	CH06	CH13	1800	300	No observable motor or behavioral response.
+15	50	CH01	CH05	1800	300	No observable motor or behavioral response.
+16	50	CH05	CH12	1800	300	No observable motor or behavioral response.
+17	50	CH15	CH16	1800	300	Neck movement with brief spasmodic-like contraction; possible involvement of laryngeal or cervical muscles.
+18	50	CH05	CH06	1800	300	No observable motor or behavioral response.
+19	50	CH01	CH02	1800	300	No observable motor or behavioral response.
