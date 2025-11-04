@@ -3,8 +3,7 @@ Longitudinal Multitask Wireless ECoG Data from Two Fully Implanted Macaca fuscat
 ## Overview
 This repository contains a wireless subdural ECoG (iEEG) dataset from *Macaca fuscata* monkeys,
 organized in compliance with the iEEG-BIDS specification.
-Recordings were acquired daily using a wireless, inductively powered implant;
-data are curated and exported into BIDS to support reproducible neuroscience.
+Recordings were acquired several times each week using a wireless, inductively powered implant. The data were curated and organized in BIDS format to facilitate reproducible research in neuroscience.
 
 Keywords: wireless subdural ECoG, iEEG, Macaca fuscata, BIDS-compliant dataset,
 longitudinal recordings, task-based neurophysiology
