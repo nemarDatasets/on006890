@@ -6,7 +6,7 @@ organized in compliance with the iEEG-BIDS specification.
 Recordings were acquired daily using a wireless, inductively powered implant;
 data are curated and exported into BIDS to support reproducible neuroscience.
 
-Keywords: wireless subdural ECoG, iEEG, Macaca mulatta, BIDS-compliant dataset,
+Keywords: wireless subdural ECoG, iEEG, Macaca fuscata, BIDS-compliant dataset,
 longitudinal recordings, task-based neurophysiology
 
 ## BIDS Organization
