@@ -1,0 +1,15 @@
+{
+  "Name": "ECoG Cortical Stimulation Supplement",
+  "BIDSVersion": "1.9.0",
+  "DatasetType": "derivative",
+  "PipelineDescription": {
+    "Name": "stimulation",
+    "Description": "Supplementary bipolar cortical stimulation logs recorded without accompanying neural data."
+  },
+  "GeneratedBy": [
+    {
+      "Name": "Experimental team",
+      "Description": "Manually recorded bipolar cortical stimulation parameters and observed responses"
+    }
+  ]
+}

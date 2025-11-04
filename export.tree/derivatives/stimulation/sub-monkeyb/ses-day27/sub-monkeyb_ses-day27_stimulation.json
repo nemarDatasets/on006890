@@ -1,0 +1,26 @@
+{
+  "trial": {
+    "Description": "Index of each independent stimulation trial (1-based)."
+  },
+  "frequency_Hz": {
+    "Description": "Stimulation frequency in Hertz."
+  },
+  "anode": {
+    "Description": "Anode electrode label; matches entries in electrodes.tsv."
+  },
+  "cathode": {
+    "Description": "Cathode electrode label; matches entries in electrodes.tsv."
+  },
+  "amplitude_uA": {
+    "Description": "Stimulation amplitude in microamperes (µA)."
+  },
+  "pulse_width_us": {
+    "Description": "Pulse width per stimulation pulse, in microseconds (µs)."
+  },
+  "observed_response": {
+    "Description": "Observed motor, sensory, or behavioral response noted during stimulation."
+  },
+  "GeneralNotes": {
+    "Description": "Each stimulation train lasted up to approximately 2 seconds and was terminated immediately upon detection of a motor response or any sign of discomfort. Actual per-trial durations and early terminations were not logged individually."
+  }
+}

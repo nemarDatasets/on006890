@@ -1,0 +1,14 @@
+trial	frequency_Hz	anode	cathode	amplitude_uA	pulse_width_us	observed_response
+1	50	CH21	CH28	1800	300	No observable motor or behavioral response.
+2	50	CH24	CH31	1800	300	Possible sensory awareness; no visible twitch; slight mouth opening with tongue protrusion.
+3	50	CH24	CH31	2000	300	Subtle contraction at the left oral commissure (mild left perioral movement).
+4	50	CH29	CH30	2000	300	Left thumb movement observed.
+5	50	CH30	CH31	2000	300	Possible abnormal sensation; no visible muscle contraction.
+6	50	CH28	CH29	2000	300	No observable motor or behavioral response.
+7	50	CH31	CH32	2000	300	No observable motor or behavioral response.
+8	50	CH22	CH28	2000	300	Left hand movement.
+9	50	CH12	CH13	2000	300	No observable motor or behavioral response.
+10	50	CH13	CH14	2000	300	Right thumb movement.
+11	50	CH14	CH15	2000	300	Possible mild somatosensory response (unclear movement).
+12	50	CH15	CH16	2000	300	Strong perioral and lingual movement on the right side.
+13	50	CH08	CH15	2200	300	No observable motor or behavioral response.

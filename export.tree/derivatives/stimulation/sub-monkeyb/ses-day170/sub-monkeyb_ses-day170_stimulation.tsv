@@ -1,0 +1,12 @@
+trial	frequency_Hz	anode	cathode	amplitude_uA	pulse_width_us	observed_response
+1	50	CH28	CH29	1800	300	No observable motor or behavioral response.
+2	50	CH23	CH29	1800	300	Left perioral (orofacial) movement.
+3	50	CH29	CH30	1800	300	Left hand movement.
+4	50	CH23	CH30	1800	300	Left facial and perioral movement.
+5	50	CH24	CH30	1800	300	Left perioral (orofacial) movement.
+6	50	CH20	CH24	1800	300	Unclear observation; no definite motor response.
+7	50	CH22	CH29	1800	300	Possible abnormal somatosensory sensation without visible movement.
+8	50	CH13	CH14	1800	300	Right facial and elbow movement.
+9	50	CH15	CH16	1800	300	Right perioral and facial movement.
+10	50	CH07	CH13	1800	300	No observable motor or behavioral response.
+11	50	CH07	CH08	1800	300	No observable motor or behavioral response.
