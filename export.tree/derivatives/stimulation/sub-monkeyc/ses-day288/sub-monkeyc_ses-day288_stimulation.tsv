@@ -1,9 +1,0 @@
-trial	frequency_Hz	anode	cathode	amplitude_uA	pulse_width_us	observed_response
-1	50	CH21	CH28	1800	300	No observable motor or behavioral response.
-2	50	CH22	CH29	1800	300	No observable motor or behavioral response.
-3	50	CH29	CH30	1800	300	No observable motor or behavioral response.
-4	50	CH18	CH23	1800	300	No observable motor or behavioral response.
-5	50	CH07	CH14	1800	300	Forehead and ocular region response; possible generalized facial activation.
-6	50	CH07	CH08	1800	300	Possible oral or periocular response.
-7	50	CH13	CH14	1800	300	Possible left eye movement observed.
-8	50	CH14	CH15	1800	300	No observable motor or behavioral response.
