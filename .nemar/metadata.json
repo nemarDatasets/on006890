@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "dataset_id": "on006890",
-  "source": "openneuro",
-  "source_id": "ds006890",
+  "pipeline_stage": "enriched",
   "title": "Longitudinal Multitask Wireless ECoG Data from Two Fully Implanted Macaca fuscata",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
     "Huixiang Yang": {},
     "Ryohei Fukuma": {},
@@ -19,26 +19,100 @@
     "Shinji Nishimoto": {},
     "Takufumi Yanagisawa": {}
   },
-  "license": "CC0",
-  "dataset_type": "raw",
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds006890.v1.0.0",
       "identifier_type": "DOI",
-      "relation_type": "IsIdenticalTo"
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on006890",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/on006890",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
     }
-  ],
-  "pipeline_stage": "seeded",
-  "bids_version": "1.9.0",
-  "recording_modality": [
-    "ieeg"
-  ],
-  "datatypes": [
-    "ieeg"
   ],
   "funding_references": [
     {
-      "funder_name": "Grant JPMJER1801 from JST, JPMJMS2012 (TY) from Moonshot R&D, JPMJCR18A5 (TY) from CREST, JPMJCR24U2 (TY) from AIP"
+      "funder_name": "JST",
+      "award_number": "JPMJER1801"
+    },
+    {
+      "funder_name": "JST Moonshot R&D",
+      "award_number": "JPMJMS2012"
+    },
+    {
+      "funder_name": "JST CREST",
+      "award_number": "JPMJCR18A5"
+    },
+    {
+      "funder_name": "JST AIP",
+      "award_number": "JPMJCR24U2"
     }
-  ]
+  ],
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "ieeg"
+  ],
+  "resource_type_specific": "iEEG Dataset",
+  "sizes": [
+    "44.2 GB (887 files)"
+  ],
+  "formats": [
+    ".edf",
+    ".json",
+    ".md",
+    ".png",
+    ".tsv",
+    ".wav",
+    ".yml"
+  ],
+  "description": "A longitudinal wireless subdural electrocorticography (ECoG) dataset from two fully implanted macaque monkeys (Macaca fuscata), organized in BIDS-iEEG format. The dataset comprises multiple recording sessions acquired weekly using an inductively powered wireless implant during rest and task-based conditions (pressing, reaching, listening, and sensorimotor tasks). This resource enables reproducible research in primate neurophysiology and brain-computer interface development. The dataset was independently curated and reorganized from in-house raw recordings (.bin files) using a custom BIDS converter. The original in-house raw recordings that served as the source for this BIDS-organized dataset are not publicly released. While a related version exists on OpenNeuro (ds006890), this dataset represents an independently maintained BIDS reorganization of the original in-house recordings.",
+  "methods_description": "Wireless subdural ECoG recordings were acquired using an inductively powered implant with uniform sampling rates across sessions. Data were recorded during multiple task conditions including rest, pressing, reaching, listening, and sensorimotor tasks (abbreviated as 'sep'). Recordings include physiological ECoG channels, trigger channels, and auxiliary channels, with electrode locations and coordinate systems documented in BIDS-compliant metadata files. Raw .bin recordings were converted to BIDS-iEEG format using a custom Python-based converter. This dataset was independently curated from in-house raw recordings; while a related version is available on OpenNeuro (ds006890), this represents a separate BIDS reorganization maintained independently.",
+  "keywords": [
+    {
+      "term": "electrocorticography"
+    },
+    {
+      "term": "iEEG"
+    },
+    {
+      "term": "wireless neural recording"
+    },
+    {
+      "term": "Macaca fuscata"
+    },
+    {
+      "term": "longitudinal study"
+    },
+    {
+      "term": "task-based neurophysiology"
+    },
+    {
+      "term": "brain-computer interface"
+    },
+    {
+      "term": "primate neurophysiology"
+    },
+    {
+      "term": "BIDS"
+    },
+    {
+      "term": "wireless implant"
+    },
+    {
+      "term": "subdural ECoG"
+    },
+    {
+      "term": "inductive coupling"
+    },
+    {
+      "term": "non-human primate"
+    }
+  ],
+  "source_hash": "34cbaae5c890c81d1f7417cb51425ab1c2b638abe11fa8bbb4b8c5e39e2ebeac"
 }
