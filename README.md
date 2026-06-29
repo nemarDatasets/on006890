@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.on006890-blue)](https://doi.org/10.82901/nemar.on006890)
+
 Longitudinal Multitask Wireless ECoG Data from Two Fully Implanted Macaca fuscata — README
 
 ## Overview
